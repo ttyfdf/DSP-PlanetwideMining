@@ -131,6 +131,7 @@ namespace PlanetwideMining
         private static readonly List<EVeinType> ResourceTypes = new List<EVeinType>()
         {
             // EVeinType.None,
+            EVeinType.Aluminum,
             EVeinType.Iron, // Iron Ore
             EVeinType.Copper, // Copper Ore
             EVeinType.Silicium, // Silicon Ore
